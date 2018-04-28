@@ -27,7 +27,8 @@ explanation {
   color: Gray;
 }
 
-logo {
-  text-align: Right;
-  color: Gray
+.footer {
+  text-align: right;
+  color: Gray;
+  font-size: 21x;
 }
